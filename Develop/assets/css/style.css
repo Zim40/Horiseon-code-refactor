@@ -50,10 +50,9 @@ p {
 }
 
 .hero {
-    height: 850px;
-    width: 100%;
+    height: 1080px;
+    width: 1920px;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
 }
@@ -96,6 +95,8 @@ p {
 .benefit-lead h3, .benefit-cost h3, .benefit-brand h3 {
     margin-bottom: 10px;
     text-align: center;
+    font-size: 25px;
+    color:black;
     
 }
 
