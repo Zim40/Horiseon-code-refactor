@@ -10,7 +10,7 @@ body {
 
 .header {
     padding: 13px;
-    width: 1920px;
+    width: 1903px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2589bd;
     color: #ffffff;
@@ -51,7 +51,7 @@ p {
 /* Main image */
 .hero {
     height: 1080px;
-    width: 1920px;
+    width: 1903px;
     margin-bottom: 25px;
     background-size: cover;
     background-position: center;
