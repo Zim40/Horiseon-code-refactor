@@ -4,10 +4,10 @@
 <p>This Horiseon website has been found to have some issues in regards to structural functionality and excessive CSS properties.
 
 ## Goal
-### HTML
+#### HTML
 <p> The goal of this code refactor project is to make the existing code read better for smoother functionality and improved user experience.</P>
 
-### CSS
+#### CSS
 <p>Within these goals i will also consolidate existing CSS properties and reduce the overall code while still executing the desired designs and features.</p>
 
 ## Issues found/fixed
@@ -26,7 +26,3 @@
 ## Licence
 please refer to Repository licence.
 
-### Contact
-Any concerns or issues please contact
-name:
-email:
